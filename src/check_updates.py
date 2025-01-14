@@ -4,8 +4,8 @@ import requests
 import zipfile
 import shutil
 
-URL = "https://raw.githubusercontent.com/Michele0303/tiktok-live-recorder/main/src/utils/enums.py"
-URL_REPO = "https://github.com/Michele0303/tiktok-live-recorder/archive/refs/heads/main.zip"
+URL = "https://raw.githubusercontent.com/Furby87/tiktok-live-recorder/main/src/utils/enums.py"
+URL_REPO = "https://github.com/Furby87/tiktok-live-recorder/archive/refs/heads/main.zip"
 FILE_TEMP = "enums_temp.py"
 FILE_NAME_UPDATE = URL_REPO.split("/")[-1]
 
