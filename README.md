@@ -37,7 +37,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
   ```bash
 # Clone this repository
-$ git clone https://github.com/Michele0303/tiktok-live-recorder
+$ git clone https://github.com/Furby87/tiktok-live-recorder
 # Go into the repository
 $ cd tiktok-live-recorder
 # Go into the source code
@@ -67,7 +67,7 @@ $ pkg upgrade
 # Install git, python3, ffmpeg
 $ pkg install git python3 ffmpeg
 # Clone this repository
-$ git clone https://github.com/Michele0303/tiktok-live-recorder
+$ git clone https://github.com/Furby87/tiktok-live-recorder
 # Go into the repository
 $ cd tiktok-live-recorder
 # Go into the source code
@@ -82,8 +82,8 @@ $ python main.py -h
 
 ## Guide
 
-- <a href="https://github.com/Michele0303/tiktok-live-recorder/blob/main/GUIDE.md#how-to-set-cookies">How to set cookies in cookies.json</a> 
-- <a href="https://github.com/Michele0303/tiktok-live-recorder/blob/main/GUIDE.md#how-to-get-room_id">How to get room_id</a> 
+- <a href="https://github.com/Furby87/tiktok-live-recorder/blob/main/GUIDE.md#how-to-set-cookies">How to set cookies in cookies.json</a> 
+- <a href="https://github.com/Furby87/tiktok-live-recorder/blob/main/GUIDE.md#how-to-get-room_id">How to get room_id</a> 
 
 ## To-Do List 🔮
 
